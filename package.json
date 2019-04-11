@@ -1,0 +1,17 @@
+{
+  "name": "ttn-integration",
+  "version": "0.0.0",
+  "description": "Maker Panel The Things Network integration.",
+  "main": "app.js",
+  "repository": "https://github.com/makerpanel/ttn-integration",
+  "author": "Dušan Simić <dusan.simic1810@gmail.com> (dusansimic.me)",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
