@@ -1,6 +1,6 @@
 const express = require('express');
 const pool = require('./pool');
-const util = reuqire('./util');
+const util = require('./util');
 
 const integrationsRouter = express.Router();
 
